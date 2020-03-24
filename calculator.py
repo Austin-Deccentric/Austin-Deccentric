@@ -1,5 +1,7 @@
 import math
-
+'''
+Implemented an OOP solution to getting the Area of a circle. I was able to implement some sort of user input validation.
+'''
 class Circle:
     def __init__(self, radius):
         self.radius = radius
