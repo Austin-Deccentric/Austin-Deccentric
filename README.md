@@ -18,7 +18,7 @@
 ## 🧠 Who am I?
 
 ```python
-class Augustine:
+class 0xtin:
     name     = "Augustine Chukwu"
     alias    = "Austin"
     location = "Lagos, Nigeria 🇳🇬"
@@ -34,7 +34,7 @@ class Augustine:
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -43,20 +43,16 @@ class Augustine:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 **📊 Data & Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 **🐳 DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,15 +67,11 @@ class Augustine:
 
 ---
 
-## 🚀 Current Mission
+## 🚀 Currently Working On
 
-| Status | What I'm building |
-|--------|-------------------|
-| 🔧 Active | Production-grade REST APIs with **FastAPI + Docker** |
-| 📊 Active | Data pipelines and analytics dashboards |
-| 🤖 Exploring | **Agentic AI** workflows & local LLM deployment |
-| 📚 Researching | MSc programs in **Data Engineering / Software Engineering** |
-| 💪 Always | Getting stronger at the gym |
+- 🔧 Building production-grade APIs with **FastAPI + Docker**
+- 📊 Designing **data pipelines** and analytics dashboards
+- 🤖 Exploring **agentic AI workflows** and local LLM deployment
 
 ---
 
@@ -89,12 +81,6 @@ class Augustine:
 
 <img src="https://github-readme-stats-kappa-hazel-26.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=01696F&icon_color=01696F" height="165" />
 <img src="https://github-readme-stats-kappa-hazel-26.vercel.app/api/top-langs/?username=Austin-Deccentric&layout=compact&hide_border=true&theme=default&title_color=01696F" height="165" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Austin-Deccentric&theme=default&hide_border=true&ring=01696F&fire=01696F&currStreakLabel=01696F)](https://git.io/streak-stats)
 
 </div>
 
