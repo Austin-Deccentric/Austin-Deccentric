@@ -72,7 +72,6 @@ austin = {
     
 ![GitHub Stats](https://github-readme-stats-kappa-hazel-26.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true)
     
-[![GitHub Streak]((https://github-readme-stats-kappa-hazel-26.vercel.app/)?user=Austin-Deccentric&theme=transparent&hide_border=true&ring=01696F&fire=01696F&currStreakLabel=01696F)](https://git.io/streak-stats)
 
 </div>
 
@@ -83,8 +82,8 @@ austin = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Austin--Deccentric-181717?style=for-the-badge&logo=github)](https://github.com/Austin-Deccentric)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augustine-chukwu-/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chukwuaugust0@gmail.com)
 
 </div>
 
