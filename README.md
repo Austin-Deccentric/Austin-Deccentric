@@ -30,10 +30,9 @@ I build backend systems, data pipelines, and clean web interfaces.
 - Learning agentic AI workflows and local LLM deployment
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-kappa-hazel-26.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Austin-Deccentric&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Deccentric&layout=compact&hide_border=true&theme=default)](https://github.com/Austin-Deccentric)
+![Top Languages](https://github-readme-stats-kappa-hazel-26.vercel.app/api/top-langs/?username=Austin-Deccentric&layout=compact&hide_border=true)
 
 ## 📫 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-Austin--Deccentric-181717?logo=github)](https://github.com/Austin-Deccentric)
