@@ -70,7 +70,7 @@ austin = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Austin-Deccentric&theme=transparent&hide_border=true&ring=01696F&fire=01696F&currStreakLabel=01696F)](https://git.io/streak-stats)
+[![GitHub Streak]((https://github-readme-stats-kappa-hazel-26.vercel.app/)?user=Austin-Deccentric&theme=transparent&hide_border=true&ring=01696F&fire=01696F&currStreakLabel=01696F)](https://git.io/streak-stats)
 
 </div>
 
