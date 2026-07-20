@@ -69,7 +69,9 @@ austin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
+    
+![GitHub Stats](https://github-readme-stats-kappa-hazel-26.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true)
+    
 [![GitHub Streak]((https://github-readme-stats-kappa-hazel-26.vercel.app/)?user=Austin-Deccentric&theme=transparent&hide_border=true&ring=01696F&fire=01696F&currStreakLabel=01696F)](https://git.io/streak-stats)
 
 </div>
