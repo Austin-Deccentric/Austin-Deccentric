@@ -1,5 +1,5 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Augustine%20Chukwu&fontSize=52&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Data%20Engineer%20%7C%20Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Augustine%20Chukwu&fontSize=52&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Data%20Engineer%20%7C%Enugu%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 class 0xtin:
     name     = "Augustine Chukwu"
     alias    = "Austin"
-    location = "Lagos, Nigeria 🇳🇬"
+    location = "Enugu, Nigeria 🇳🇬"
     roles    = ["Backend Developer", "Data Engineer (evolving)", "Container Whisperer"]
     stack    = ["Python", "FastAPI", "Docker", "SQLAlchemy", "JavaScript", "SQL"]
     learning = ["Data Pipelines", "Cloud Infrastructure", "Agentic AI", "LLMs"]
