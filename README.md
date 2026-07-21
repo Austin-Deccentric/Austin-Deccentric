@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=01696F&center=true&vCenter=true&width=650&lines=I+build+APIs+that+don't+break+at+3AM+%F0%9F%8C%99;Docker+containers+are+my+love+language+%F0%9F%90%B3;Turning+raw+data+into+decisions+%F0%9F%93%8A;git+commit+-m+'another+late+night'+%F0%9F%98%84;Lagos+to+the+world+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=01696F&center=true&vCenter=true&width=650&lines=I+build+APIs+that+don't+break+at+3AM+%F0%9F%8C%99;Docker+containers+are+my+love+language+%F0%9F%90%B3;Turning+raw+data+into+decisions+%F0%9F%93%8A;git+commit+-m+'another+late+night'+%F0%9F%98%84;Enugu+to+the+world+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
