@@ -77,12 +77,8 @@ class 0xtin:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=01696F&icon_color=01696F" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Deccentric&layout=compact&hide_border=true&theme=default&title_color=01696F" height="165" />
-
-</div>
+<img src="https://github-readme-stats-kappa-hazel-26.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=01696F&icon_color=01696F" height="165" />
+<img src="https://github-readme-stats-kappa-hazel-26.vercel.app/api/top-langs/?username=Austin-Deccentric&layout=compact&hide_border=true&theme=default&title_color=01696F" height="165" />
 
 ---
 
