@@ -1,114 +1,53 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Augustine%20Chukwu&fontSize=52&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Data%20Engineer%20%7C%20Enugu%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" />
+<!-- HEADER: swap the desc= text for variant A or B (see header-variants.md) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=12355B&height=180&section=header&text=Augustine%20Chukwu&fontSize=48&fontAlignY=36&desc=Software%20engineer%20building%20for%20African%20businesses&descAlignY=60&descSize=18&fontColor=FAF6EF" width="100%" alt="Augustine Chukwu, software engineer" />
 
-<div align="center">
+I'm Augustine (Austin), a software engineer in Enugu, Nigeria. I build backend systems and AI features for products where money, bookings or voice notes have to land correctly the first time: ledgers, payment webhooks, job queues and LLM pipelines with a human in the loop.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=01696F&center=true&vCenter=true&width=650&lines=I+build+APIs+that+don't+break+at+3AM+%F0%9F%8C%99;Docker+containers+are+my+love+language+%F0%9F%90%B3;Turning+raw+data+into+decisions+%F0%9F%93%8A;git+commit+-m+'another+late+night'+%F0%9F%98%84;Enugu+to+the+world+%F0%9F%9A%80" alt="Typing SVG" />
+Co-founder and engineering lead at **[KekeVest](https://kekevest.com)**. Open to remote Software Engineer and AI Engineer roles (UTC+1, overlaps with Europe and US mornings).
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Austin-Deccentric?label=Followers&style=flat-square&color=01696F&labelColor=1c1b19&logo=github)](https://github.com/Austin-Deccentric)
-[![Profile Views](https://komarev.com/ghpvc/?username=Austin-Deccentric&label=Profile+Views&color=01696F&style=flat-square)](https://github.com/Austin-Deccentric)
-![GitHub Stars](https://img.shields.io/github/stars/Austin-Deccentric?style=flat-square&color=01696F&labelColor=1c1b19&logo=github&label=Stars)
-
-</div>
+[Website](https://chukwuaugust.tech) · [LinkedIn](https://www.linkedin.com/in/augustine-chukwu-/) · [Email](mailto:chukwuaugust0@gmail.com)
 
 ---
 
-## 🧠 Who am I?
+### What I've built
 
-```python
-class 0xtin:
-    name     = "Augustine Chukwu"
-    alias    = "Austin"
-    location = "Enugu, Nigeria 🇳🇬"
-    roles    = ["Backend Developer", "Data Engineer (evolving)", "Container Whisperer"]
-    stack    = ["Python", "FastAPI", "Docker", "SQLAlchemy", "JavaScript", "SQL"]
-    learning = ["Data Pipelines", "Cloud Infrastructure", "Agentic AI", "LLMs"]
-    goals    = ["MSc in Data Engineering 🎓", "Ship products people love 🚢"]
-    hobbies  = ["Gym 🏋️", "Breaking & fixing things", "Late-night debugging"]
+**[KekeVest](https://kekevest.com)** · *private repo* 
+Fleet and rider-ownership platform for keke (tricycle) riders in Enugu: lease-to-own instead of informal "work-and-pay" hire purchase. Double-entry ledger, Paystack dedicated virtual accounts with a 90/10 split, dual-approval payouts and a live fleet map. I lead a team of 5 and own the domain model, contracts, ledger and rider portal (about 59% of 1,438 commits). 317 merged PRs, ~1,670 API tests, CI on every PR. 
+`FastAPI` `PostgreSQL/PostGIS/TimescaleDB` `Celery` `Redis` `MQTT` `Next.js` `Playwright`
 
-    def greet(self):
-        return "Let's build something great together! 🤝"
-```
+**[VoiceDesk](https://github.com/Austin-Deccentric/VoiceDesk)** · [live demo](https://voice-desk-two.vercel.app) 
+Voice-note inbox for Nigerian small businesses: transcribe → translate → tag intent → draft a reply grounded in the business's knowledge base → a human approves before anything is sent. WhatsApp and Telegram channels, Postgres job queue (`SKIP LOCKED`), live updates over SSE. Built solo in 17 days; 183 pytest + 30 Playwright tests. 
+`FastAPI` `Next.js` `PostgreSQL` `ElevenLabs Scribe` `OpenAI-compatible LLMs` `SSE`
 
----
+**[NaijaStay](https://github.com/Austin-Deccentric/naijastay)** · [live API](https://naijastay-api.onrender.com) 
+Hotel booking API that can't double-book a room: pessimistic row locking, Redis room holds, 4-role RBAC, SSE and rate limiting. About 87% of 111 commits on a team of 3; 101 tests. 
+`FastAPI` `PostgreSQL` `Redis` `SQLAlchemy 2 (async)` `Docker`
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-**🐍 Backend & APIs**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-
-**📊 Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**🐳 DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**🌐 Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+**[Clinic booking app](https://clinic-app-mh31.onrender.com)** 
+FastAPI + React app built to a published OpenAPI contract; passes all 5 levels with 72 contract tests.
 
 ---
 
-## 🚀 Currently Working On
+### Stack
 
-- 🔧 Building production-grade APIs with **FastAPI + Docker**
-- 📊 Designing **data pipelines** and analytics dashboards
-- 🤖 Exploring **agentic AI workflows** and local LLM deployment
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-kappa-hazel-26.vercel.app/api?username=Austin-Deccentric&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=01696F&icon_color=01696F" height="165" />
-<img src="https://github-readme-stats-kappa-hazel-26.vercel.app/api/top-langs/?username=Austin-Deccentric&layout=compact&hide_border=true&theme=default&title_color=01696F" height="165" />
+**Backend:** Python, FastAPI, SQLAlchemy 2 (async), SQLModel, Pydantic, PostgreSQL (PostGIS, TimescaleDB), Redis, Celery, Alembic, MQTT 
+**AI:** speech-to-text, provider-agnostic LLM adapters, knowledge-base-grounded drafting with human approval, Nigerian-language voice pipelines 
+**Frontend:** TypeScript, React 19, Next.js, Tailwind CSS, shadcn/ui, Astro 
+**Infra & quality:** Docker, Linux, GitHub Actions, Render, Vercel, pytest (Hypothesis), Playwright, Ruff, mypy 
+**Payments:** Paystack (virtual accounts, webhooks), Stripe
 
 ---
 
-## 🐍 Contribution Snake
+### What I care about
 
-<div align="center">
+- Pipelines that are safe to retry: idempotent webhooks, resumable jobs, no double charges
+- Concurrency done right: row locks and `SKIP LOCKED` queues instead of hoping
+- AI that works in Nigerian languages, with a person still making the call
+
+Outside work: football.
+
+<!-- Optional: keep the contribution snake (the workflow already exists in .github) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Austin-Deccentric/Austin-Deccentric/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Austin-Deccentric/Austin-Deccentric/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Austin-Deccentric/Austin-Deccentric/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Austin-Deccentric/Austin-Deccentric/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
-
----
-
-## 💬 A thought
-
-> *"The best code is the code that ships. The second best is the code that scales."*
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Austin--Deccentric-181717?style=for-the-badge&logo=github)](https://github.com/Austin-Deccentric)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augustine-chukwu-/)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chukwuaugust0@gmail.com)
-
-</div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
